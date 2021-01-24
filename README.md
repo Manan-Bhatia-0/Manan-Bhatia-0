@@ -5,7 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=data-structs-and-algorithms&theme=radical)](https://github.com/bhatia47/data-structs-and-algorithms)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=RLRBT&theme=radical)](https://github.com/bhatia47/RLRBT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=airport-management-system&theme=radical)](https://github.com/bhatia47/airport-management-system)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=ctracr&theme=radical)](https://github.com/sferia003/ctracr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sferia003&repo=ctracr&theme=radical)](https://github.com/sferia003/ctracr)
 
 
 
