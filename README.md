@@ -4,7 +4,7 @@ I'm Manan, a sophomore in Computer Science at Purdue University. I am interested
 - 🌱 I’m learning the principles of **Systems Programming (CS252 at Purdue)** in C/C++.
 - 📫 Email: bhatia47@purdue.edu (primary) or mbhatia.19@gmail.com.
 
-## GitHub Stats
+## GitHub Statistics
 
 [![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhatia47&theme=radical&count_private=true&show_icons=true&include_all_commits&hide=prs)](https://github.com/bhatia47)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatia47&theme=radical&exclude_repo=data-structs-and-algorithms,airport-management-system&layout=compact&card_width=255)](https://github.com/bhatia47)
