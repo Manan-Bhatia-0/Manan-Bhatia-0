@@ -1,6 +1,6 @@
 ### Hi 👋
-I'm Manan, a sophomore in Computer Science at Purdue University. I am interested in Software Development, Full-Stack development, Artificial Intelligence, and Algorithm Analysis. I am also pursuing a minor in Economics.
-- 🔭 I’m currently working on implementing my own **Memory Allocator** in C.
+I'm Manan, a junior in Computer Science at Purdue University. I am interested in Software Development, Full-Stack development, Artificial Intelligence, and Algorithm Analysis. I am also pursuing a minor in Economics.
+- 🔭 I’m currently working on implementing a **shell in linux based on csh**.
 - 🌱 I’m learning the principles of **Systems Programming (CS252 at Purdue)** in C/C++.
 - 📫 Email: bhatia47@purdue.edu (primary) or mbhatia.19@gmail.com.
 
