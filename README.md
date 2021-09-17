@@ -1,6 +1,6 @@
 ### Hi 👋
-I'm Manan, a junior in Computer Science at Purdue University. I am interested in Software Development, Full-Stack development, Artificial Intelligence, and Algorithm Analysis. I am also pursuing a minor in Economics.
-- 🔭 I’m currently working on implementing a **shell in linux based on csh**.
+I'm Manan, a junior in Computer Science at Purdue University. I am interested in Software Development, Full-Stack development, Artificial Intelligence, and Algorithm Analysis.
+- 🔭 I’m currently working on a sentiment analysis application using NLP for my software engineering project.
 - 🌱 I’m learning the principles of **Operating Systems and Software Engineering.**
 - 📫 Email: bhatia47@purdue.edu (primary) or mbhatia.19@gmail.com.
 
