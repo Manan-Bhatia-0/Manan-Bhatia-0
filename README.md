@@ -10,15 +10,15 @@ I'm Manan, a junior in Computer Science at Purdue University. I am interested in
 ## Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=Modus.ai&theme=tokyonight)](https://github.com/bhatia47/Modus.ai)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=data-structs-and-algorithms&theme=radical)](https://github.com/bhatia47/data-structs-and-algorithms)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=right-leaning-red-black-tree&theme=radical)](https://github.com/bhatia47/right-leaning-red-black-tree)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=airport-management-system&theme=radical)](https://github.com/bhatia47/airport-management-system)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sferia003&repo=ctracr&theme=radical)](https://github.com/sferia003/ctracr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=data-structs-and-algorithms&theme=tokyonight)](https://github.com/bhatia47/data-structs-and-algorithms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=right-leaning-red-black-tree&theme=tokyonight)](https://github.com/bhatia47/right-leaning-red-black-tree)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=airport-management-system&theme=tokyonight)](https://github.com/bhatia47/airport-management-system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sferia003&repo=ctracr&theme=tokyonight)](https://github.com/sferia003/ctracr)
 
 ## GitHub Statistics
 
-[![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhatia47&theme=radical&count_private=true&show_icons=true&include_all_commits&hide=prs)](https://github.com/bhatia47)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatia47&theme=radical&exclude_repo=data-structs-and-algorithms&layout=compact&card_width=290)](https://github.com/bhatia47)
+[![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhatia47&theme=tokyonight&count_private=true&show_icons=true&include_all_commits&hide=prs)](https://github.com/bhatia47)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatia47&theme=tokyonight&exclude_repo=data-structs-and-algorithms&layout=compact&card_width=290)](https://github.com/bhatia47)
 
 
 
