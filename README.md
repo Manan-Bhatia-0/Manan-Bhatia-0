@@ -9,7 +9,7 @@ I'm Manan, a junior in Computer Science at Purdue University. I am interested in
 
 ## Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=Modus.ai&theme=radical)](https://github.com/bhatia47/Modus.ai)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=Modus.ai&theme=tokyonight)](https://github.com/bhatia47/Modus.ai)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=data-structs-and-algorithms&theme=radical)](https://github.com/bhatia47/data-structs-and-algorithms)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=right-leaning-red-black-tree&theme=radical)](https://github.com/bhatia47/right-leaning-red-black-tree)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47&repo=airport-management-system&theme=radical)](https://github.com/bhatia47/airport-management-system)
