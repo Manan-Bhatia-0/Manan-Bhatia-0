@@ -2,7 +2,7 @@
 I'm Manan, a junior in Computer Science at Purdue University. I am interested in Software Development, Backend development, Artificial Intelligence, and Algorithm Design.
 - 🔭 I’m currently working on:
   - A sentiment analysis application using NLP for my software engineering project.
-  - A file parsing system for DEF, PDF, DOC and XML files using BeautifulSoup and Python.
+  - A file parsing system for DEF, PDF, DOC and XML files using BeautifulSoup and Python for the Data Mine (project sponsored by Lockheed Martin)
   - A mobile app with software engineers at the non-profit Wabash Heartland Innovation Network to provide custom weather data (including customizing weather stations) to farmers.
 - 🌱 I’m learning the principles of **Operating Systems and Software Engineering.**
 - 📫 Email: bhatia47@purdue.edu (primary) or mbhatia.19@gmail.com.
