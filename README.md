@@ -14,6 +14,7 @@ I'm Manan, a senior in Computer Science at Purdue University. I am interested in
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47-lw&repo=right-leaning-red-black-tree&theme=tokyonight)](https://github.com/bhatia47-lw/right-leaning-red-black-tree)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47-lw&repo=airport-management-system&theme=tokyonight)](https://github.com/bhatia47-lw/airport-management-system)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sferia003&repo=ctracr&theme=tokyonight)](https://github.com/sferia003/ctracr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47-lw&repo=seek&theme=tokyonight)](https://github.com/bhatia47-lw/seek)
 
 ## GitHub Statistics
 
