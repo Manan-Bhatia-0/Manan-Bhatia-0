@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm Manan, a junior in Computer Science at Purdue University. I am interested in Software Development, Backend development, Artificial Intelligence, and Algorithm Design.
+I'm Manan, a senior in Computer Science at Purdue University. I am interested in Software Development, Backend development, Cloud Security, and Algorithm Design.
 - 🔭 I’m currently working on:
   - A sentiment analysis application called Modus.ai using NLP for my software engineering project.
   - A file parsing system for DEF, PDF, DOC and XML files using BeautifulSoup and Python for the Data Mine (project sponsored by Lockheed Martin)
