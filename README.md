@@ -9,21 +9,21 @@ I'm Manan, a senior in Computer Science at Purdue University. I am interested in
 
 ## Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47-lw&repo=Modus.ai&theme=tokyonight)](https://github.com/bhatia47-lw/Modus.ai)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47-lw&repo=data-structs-and-algorithms&theme=tokyonight)](https://github.com/bhatia47-lw/data-structs-and-algorithms)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47-lw&repo=right-leaning-red-black-tree&theme=tokyonight)](https://github.com/bhatia47-lw/right-leaning-red-black-tree)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhatia47-lw&repo=airport-management-system&theme=tokyonight)](https://github.com/bhatia47-lw/airport-management-system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manan-Bhatia-0&repo=Modus.ai&theme=tokyonight)](https://github.com/Manan-Bhatia-0/Modus.ai)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manan-Bhatia-0&repo=data-structs-and-algorithms&theme=tokyonight)](https://github.com/Manan-Bhatia-0/data-structs-and-algorithms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manan-Bhatia-0&repo=right-leaning-red-black-tree&theme=tokyonight)](https://github.com/Manan-Bhatia-0/right-leaning-red-black-tree)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manan-Bhatia-0&repo=airport-management-system&theme=tokyonight)](https://github.com/Manan-Bhatia-0/airport-management-system)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sferia003&repo=ctracr&theme=tokyonight)](https://github.com/sferia003/ctracr)
 
 ## GitHub Statistics
 
-[![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhatia47-lw&theme=tokyonight&count_private=true&show_icons=true&include_all_commits&hide=prs)](https://github.com/bhatia47-lw)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatia47-lw&theme=tokyonight&exclude_repo=data-structs-and-algorithms&layout=compact&card_width=290)](https://github.com/bhatia47-lw)
+[![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manan-Bhatia-0&theme=tokyonight&count_private=true&show_icons=true&include_all_commits&hide=prs)](https://github.com/Manan-Bhatia-0)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-Bhatia-0&theme=tokyonight&exclude_repo=data-structs-and-algorithms&layout=compact&card_width=290)](https://github.com/Manan-Bhatia-0)
 
 
 
 <!--
-**bhatia47/bhatia47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Manan-Bhatia-0/Manan-Bhatia-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ###### readme stats(display cards) credits: https://github.com/anuraghazra/github-readme-stats
 Here are some ideas to get you started:
 
