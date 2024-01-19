@@ -1,5 +1,6 @@
 ### Hi 👋
 I'm Manan, a Software Engineer at Lacework. I work in the field of cloud-security, with a focus on data ingestion, backend architecture development, and algorithm design.
+- Below are some of my public projects. Some of my more recent projects are private for now. Please reach out to me if you are interested in learning more about them.
 - 📫 Email: mbhatia.19@gmail.com.
 
 ## Projects
