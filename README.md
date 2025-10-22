@@ -1,8 +1,9 @@
 ### Hi 👋
 I'm Manan, a Software Engineer at Fortinet. I work in the field of cloud-security, with a focus on data ingestion, backend architecture for distributed systems, and algorithm design.
-- Below are some of my public projects. Some of my more recent projects are private for now. Please reach out to me if you are interested in learning more about them.
+- You will find some of my public projects here, however most of my more recent projects are private for now. Please reach out to me if you are interested in learning more about them!
 - 📫 Email: mbhatia.19@gmail.com.
 
+<!--
 ## Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manan-Bhatia-0&repo=Modus.ai&theme=tokyonight)](https://github.com/Manan-Bhatia-0/Modus.ai)
@@ -10,7 +11,7 @@ I'm Manan, a Software Engineer at Fortinet. I work in the field of cloud-securit
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manan-Bhatia-0&repo=right-leaning-red-black-tree&theme=tokyonight)](https://github.com/Manan-Bhatia-0/right-leaning-red-black-tree)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manan-Bhatia-0&repo=airport-management-system&theme=tokyonight)](https://github.com/Manan-Bhatia-0/airport-management-system)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sferia003&repo=ctracr&theme=tokyonight)](https://github.com/sferia003/ctracr)
-
+-->
 <!--
 ## GitHub Statistics
 
